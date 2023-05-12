@@ -1,0 +1,37 @@
+/* .app{
+  display: grid;
+  place-items:center;
+  background-color: #dadbd3;
+  height: 100vh;
+} */
+/* .app__body{
+  display: flex;
+  background-color: #ededed;
+  margin-top: -50px;
+  height: 90%;
+  width: 90%;
+  box-shadow: -1px 4px 20px -6px rgba(0,0,0, 0.7);
+} */
+.logo1{
+  /* background-color:teal; */
+  display: flex;
+  flex: 1;
+  text-align: left;
+  width: 100%;
+  /* padding-top: -50px; */
+  justify-content:left;
+  margin-top: -40px;
+  color:teal;
+}
+/* .image_logo ,img{
+  padding-top: 10px;
+  margin-right: 3px;
+}
+.image_logo{
+  /* background-color: white; */
+  /* border-radius: 100%;
+  text-align: center;
+  padding-left: 50px;
+
+  padding: -4px; */
+/* }  */
